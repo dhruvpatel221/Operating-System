@@ -1,0 +1,24 @@
+Run server first then client
+
+  To test: Open a terminal window.
+  At the prompt ($ is my prompt symbol) you may
+  type the following as a test:
+ 
+  $ ./server 54554
+  Run client by providing host and port
+
+Now run client
+
+  To test: Open a terminal window.
+  At prompt ($ is my prompt symbol) you may
+  type the following as a test:
+ 
+  $./client 127.0.0.1 54554
+  Please enter the command (toUpper,count)):
+  
+
+<==>important<==>
+enter command like this = 
+toUpper [filename]  count [filename] [char]
+
+("toUpper file.txt","count file.txt t")
